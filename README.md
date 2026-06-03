@@ -1,5 +1,5 @@
 # Midnight Math Game
-Midnight Math is an educational survival game designed for upper primary students (Primary 4 to 6) to enhance their mathematical proficiency through immersive First-Person, high-stakes gameplay. Players take on the role of a soldier stranded in a forest after a mission goes awry, tasked with maintaining an emergency signal beacon until an airlift rescue arrives at dawn. 
+Midnight Math, created using Unity and C#, is an educational survival game designed for upper primary students (Primary 4 to 6) to enhance their mathematical proficiency through immersive First-Person, high-stakes gameplay. Players take on the role of a soldier stranded in a forest after a mission goes awry, tasked with maintaining an emergency signal beacon until an airlift rescue arrives at dawn. 
 
 ## Overview
 The core gameplay revolves around resource management, environmental fortification, and combat, all of which are powered by solving mathematical problems. 
@@ -19,6 +19,13 @@ Mining
 Ammo Collection  
 ![Ammo](readme_assets/Demo_Ammo.gif)  
 
+Card Matching
+![Card](readme_assets/Demo_Card_Matching.gif) 
+
+Shooting
+![Shooting](readme_assets/Demo_Shooting.gif) 
+
+
 ## Educational Objectives
 The game integrates four main components, each corresponding to a specific topic in the MOE Primary 4 to 6 Mathematics syllabus: 
 - Energy Generator: A card-matching game where players match equivalent fractions and decimals to restore the beacon's power (Primary 6: Fractions and Decimals).
@@ -28,4 +35,4 @@ The game integrates four main components, each corresponding to a specific topic
 
 ## Play The Game
 You can play the game here: 
-[Game](https://pravin006.github.io/Midhight-Math-Game/)
+[Game](https://pravin006.github.io/Midnight-Math-Game/)
