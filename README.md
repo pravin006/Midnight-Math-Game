@@ -11,19 +11,19 @@ Key Gameplay Features:
 
 ## Demos
 Building  
-![Building](readme_assets/Demo_Building.gif)  
+<img src="readme_assets/Demo_Building.gif" width="500">
 
 Mining  
-![Mining](readme_assets/Demo_Mining.gif)  
+<img src="readme_assets/Demo_Mining.gif" width="500">
 
 Ammo Collection  
-![Ammo](readme_assets/Demo_Ammo.gif)  
+<img src="readme_assets/Demo_Ammo.gif" width="500">
 
-Card Matching
-![Card](readme_assets/Demo_Card_Matching.gif) 
+Card Matching  
+<img src="readme_assets/Demo_Card_Matching.gif" width="500">
 
-Shooting
-![Shooting](readme_assets/Demo_Shooting.gif) 
+Shooting  
+<img src="readme_assets/Demo_Shooting.gif" width="500">
 
 
 ## Educational Objectives
